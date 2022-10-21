@@ -1,3 +1,3 @@
-# Leon-PSD-Agency-Template
-HTML &amp; CSS First Templete
+# Kasper-PSD-Agency-Template
+HTML &amp; CSS Second Templete
 [Review Page](https://hagaressmat.github.io/Kasper-Template/).
